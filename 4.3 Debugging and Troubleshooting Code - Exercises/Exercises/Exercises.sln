@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickyStrings", "TrickyStrings\TrickyStrings.csproj", "{3E5AA51D-AD2A-4BF2-8A0B-77E958D3DA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleFormations", "TriangleFormations\TriangleFormations.csproj", "{A5CA7AA9-63FF-492A-B330-CD6E371BCBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{79329DDF-9070-4342-A650-02E221634DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiningCoins", "MiningCoins\MiningCoins.csproj", "{0F8E7DF9-46AF-482E-A5CF-CD5FC39F6D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5AA51D-AD2A-4BF2-8A0B-77E958D3DA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5AA51D-AD2A-4BF2-8A0B-77E958D3DA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5AA51D-AD2A-4BF2-8A0B-77E958D3DA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5AA51D-AD2A-4BF2-8A0B-77E958D3DA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CA7AA9-63FF-492A-B330-CD6E371BCBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CA7AA9-63FF-492A-B330-CD6E371BCBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CA7AA9-63FF-492A-B330-CD6E371BCBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CA7AA9-63FF-492A-B330-CD6E371BCBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79329DDF-9070-4342-A650-02E221634DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79329DDF-9070-4342-A650-02E221634DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79329DDF-9070-4342-A650-02E221634DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79329DDF-9070-4342-A650-02E221634DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8E7DF9-46AF-482E-A5CF-CD5FC39F6D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8E7DF9-46AF-482E-A5CF-CD5FC39F6D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8E7DF9-46AF-482E-A5CF-CD5FC39F6D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8E7DF9-46AF-482E-A5CF-CD5FC39F6D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

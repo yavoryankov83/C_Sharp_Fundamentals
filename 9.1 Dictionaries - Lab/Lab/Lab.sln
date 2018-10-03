@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{D0F154B5-786F-4F6C-81F1-B9A8D9923862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrences", "OddOccurrences\OddOccurrences.csproj", "{1163FE95-871E-4826-A637-B3FF86E0AA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F154B5-786F-4F6C-81F1-B9A8D9923862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F154B5-786F-4F6C-81F1-B9A8D9923862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F154B5-786F-4F6C-81F1-B9A8D9923862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F154B5-786F-4F6C-81F1-B9A8D9923862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1163FE95-871E-4826-A637-B3FF86E0AA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1163FE95-871E-4826-A637-B3FF86E0AA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1163FE95-871E-4826-A637-B3FF86E0AA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1163FE95-871E-4826-A637-B3FF86E0AA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
